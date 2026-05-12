@@ -1,4 +1,4 @@
-# 
+# ultimate dydx trading bot Tool | blockchain-scanning + gas-optimization is the best dydx trading bot, featuring blockchain-scanning and gas-optimization. Smart, fast, and
 
 
 
